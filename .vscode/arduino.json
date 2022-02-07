@@ -1,0 +1,7 @@
+{
+    "sketch": "waterlevel-sensor.ino",
+    "configuration": "xtal=80,vt=flash,exception=legacy,ssl=all,ResetMethod=ck,CrystalFreq=26,FlashFreq=40,FlashMode=dout,eesz=4M2M,led=2,sdk=nonosdk_190703,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+    "board": "esp8266:esp8266:generic",
+    "port": "192.168.0.30",
+    "output": "./build"
+}
